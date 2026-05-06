@@ -1,4 +1,4 @@
-
+#### Building an Intelligent Invoice OCR Pipeline with Airflow, MinIO, Tesseract, and PostgreSQL
 
 Archetecture Diagram
 <img width="1189" height="505" alt="ocr excalidraw" src="https://github.com/user-attachments/assets/cb0750e0-5932-4540-a31b-1558e5d43fa9" />
