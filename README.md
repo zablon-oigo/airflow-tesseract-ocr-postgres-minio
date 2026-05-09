@@ -36,8 +36,8 @@ A scalable document intelligence pipeline capable of turning unstructured financ
 **Clone the repository**
 
 ```sh
-git clone https://github.com/zablon-oigo/streamlining-data-events-minio-postgres.git 
-cd streamlining-data-events-minio-postgres
+git clone https://github.com/zablon-oigo/airflow-tesseract-ocr-postgres-minio.git
+cd airflow-tesseract-ocr-postgres-minio
 ```
 
 
